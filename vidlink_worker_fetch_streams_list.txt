@@ -2299,3 +2299,34 @@ https://www.vidking.net/embed/movie/1924, serail=60, time=2:41 AM 19 augest 2026
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/9531, serail=61, time=2:41 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "9531",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FeGRzQWdYTUJtMlhtRnZESTRxUzRrQTpuQlVWaVhuN0FCRWdXSmZKdXZLemQ5R0JtS0diQzNDYVNtRFgzNzVwRjl1cUFkcEd5NnllRjhzN05OMVc3d29nbjVmZi03UE1YeHN5OFJtUmF4V2tOMDVpLURqR2VoeGVITHRka281QXppbw%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FeGRzQWdYTUJtMlhtRnZESTRxUzRrQTpuQlVWaVhuN0FCRWdXSmZKdXZLemQ5R0JtS0diQzNDYVNtRFgzNzVwRjl1cUFkcEd5NnllRjhzN05OMVc3d29nbjVmZi03UE1YeHN5OFJtUmF4V2tOMDVpLURqR2VoeGVITHRka281QXppbw%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FeGRzQWdYTUJtMlhtRnZESTRxUzRrQTpuQlVWaVhuN0FCRWdXSmZKdXZLemQ5R0JtS0diQzNDYVNtRFgzNzVwRjl1cUFkcEd5NnllRjhzN05OMVc3d29nbjVmZi03UE1YeHN5OFJtUmF4V2tOMDVpLURqR2VoeGVITHRka281QXppbw%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FeGRzQWdYTUJtMlhtRnZESTRxUzRrQTpuQlVWaVhuN0FCRWdXSmZKdXZLemQ5R0JtS0diQzNDYVNtRFgzNzVwRjl1cUFkcEd5NnllRjhzN05OMVc3d29nbjVmZi03UE1YeHN5OFJtUmF4V2tOMDVpLURqR2VoeGVITHRka281QXppbw%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
