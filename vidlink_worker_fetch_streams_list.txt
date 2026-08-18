@@ -1785,3 +1785,58 @@ https://www.vidking.net/embed/movie/10195, serail=47, time=1:54 AM 19 augest 202
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/284053, serail=48, time=1:54 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "284053",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | 1080p | direct",
+      "url": "https://moon.peakstorm.top/vd/aDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw/index-s1080p-v1-a1.m3u8"
+    },
+    {
+      "label": "cdn | 1080p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FaDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw%2Findex-s1080p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 720p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FaDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw%2Findex-s720p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 480p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FaDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw%2Findex-s480p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 2160p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FaDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw%2Findex-s2160p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | master | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FaDRoZktSRjhkZlliZFdaOUxzWVNZQTpsbjhwaG5KN0dNbEFYTFRSR0pITVpDb3hHQ2lzQVhWb2Jhb1l4cWFDcUcw%2Fmaster.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "hdmovie | Hindi",
+      "url": "https://i-arch-400.rasta428jem.com/stream2/i-arch-400/a85f04b75698e666064cdf0a60445b26/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaGtWTHlUeadkWspFVK12TUhGbOdUW6pFRrd3TXVFNadVU61UbVJTTXlVP:1787084663:171.22.248.11:2ce304b7e81e2d3096b76c6d9a3366c6f443690f708bddb2b35089431d2bc8fe:=0EVjhHTqlUeMpWSw80Q0gXTR1TP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | English",
+      "url": "https://i-arch-400.rasta428jem.com/stream2/i-arch-400/a85f04b75698e666064cdf0a60445b26/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pVbGxWWURWbadkUrp1RJdnTqlEMNdkTpl1VO1mTE50aNpXWx40Val2TXFVP:1787084663:171.22.248.11:d5e47d182b2e3767e456ee3f3060ea4abc5089072d03867beb79a0126feb42ab:=0EVjhHTqlUeMpWSw80Q0gXTR1TP/index.m3u8"
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvbmR1azdnNzNmZW5pXyxuLGgsLnVybHNldC9tYXN0ZXIubTN1OD90PW9LajJnRi1RVm53c1FCZXAyYmRudTVUU3p5bDBsVlpuWUJGXzR5RzNfbU0mcz0xNzg3MDc1OTI4JmU9NDMyMDAmdj0zMjMxMTY1MzEmc3J2PXMxMCZpPTAuMCZzcD0wJnI9ZQ%3D%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    },
+    {
+      "label": "m4uhd | playhq",
+      "url": "https://sun.peakstorm.top/b3f8c21a/ma9yIsUHLd1oEUKmveBRD6CL9aSh9fi08J7f9fAYJaJBpCdYD0B-GAdVd7Zg6lACo8F67V8n20Xhl51_593TUkhcd9hFZcoR7LlT9DOAAq3o2AYXY--gNgO5_mT-onQgecMVuRPwNFF4s6p9myZLH1W1NH1wICmWI5s3G6H6Hd3qOR5Lj4_FShHY_9FuUv3UgS61Os0C8Ip4gLwmoeMh4IZWnqp3pB-i64AOtwRquVcg95Mb0bzchA9MwHWZmiQlWSvHD6E0Q8Wp8s2Qob0y57Xv0EIrh1jXMorwCMVzrsVKa-kOR88V-G9jY-NZvScLzS_8AuQSDzsJe3q0gB_QAw.m3u8"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
