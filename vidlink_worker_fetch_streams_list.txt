@@ -319,3 +319,42 @@ https://www.vidking.net/embed/movie/534, serail=8, time=3:57 PM 2026 , banglades
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/605, serail=9, time=3:58 PM 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "605",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FVHRfazRJZElVQU9aNnhUVEJlRk5uUTpJVUJMeENTOXU1X0dMZWlSVE1GdzZJbnlMS1B1VFRZMHVKYV9GWTJUYlhfblBUTnhaTTRsdVdpTVQ3eFZ4UHFibWhBWWNMajdxdFJWT3NVRHBRX2NkUQ%2F1080p%2Findex.m3u8&ref=&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FVHRfazRJZElVQU9aNnhUVEJlRk5uUTpJVUJMeENTOXU1X0dMZWlSVE1GdzZJbnlMS1B1VFRZMHVKYV9GWTJUYlhfblBUTnhaTTRsdVdpTVQ3eFZ4UHFibWhBWWNMajdxdFJWT3NVRHBRX2NkUQ%2F720p%2Findex.m3u8&ref=&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FVHRfazRJZElVQU9aNnhUVEJlRk5uUTpJVUJMeENTOXU1X0dMZWlSVE1GdzZJbnlMS1B1VFRZMHVKYV9GWTJUYlhfblBUTnhaTTRsdVdpTVQ3eFZ4UHFibWhBWWNMajdxdFJWT3NVRHBRX2NkUQ%2F480p%2Findex.m3u8&ref=&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FQUpDWFV3eDVZS0VBRmh5dnU5WmhSQTp3eHF1T2VJR0ZzN3FSZTBWLUtJa2NR%2Fplaylist.m3u8&ref=&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FVHRfazRJZElVQU9aNnhUVEJlRk5uUTpJVUJMeENTOXU1X0dMZWlSVE1GdzZJbnlMS1B1VFRZMHVKYV9GWTJUYlhfblBUTnhaTTRsdVdpTVQ3eFZ4UHFibWhBWWNMajdxdFJWT3NVRHBRX2NkUQ%2Fplaylist.m3u8&ref=&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDAzL3pjcG4xbnhkYjc1ZV8sbixoLC51cmxzZXQvbWFzdGVyLm0zdTg%2FdD1iSzVxY3NNcmMxZEw1dW5hbTBaRGhYMjcwRzlISVVtVTIxQnc4VEM4MU5ZJnM9MTc4NzAzOTc1OCZlPTQzMjAwJnY9MzI1NTEyMDE3Jmk9MC4wJnNwPTAmcj1l&headers=e30%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
