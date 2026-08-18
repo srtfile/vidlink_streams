@@ -2972,3 +2972,38 @@ https://www.vidking.net/embed/movie/13, serail=79, time=2:56 AM 19 augest 2026 ,
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/376867, serail=80, time=2:57 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "376867",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FeFdMaDBZSG1qTmtjVW96WUtmTlQxQTp3V1dDbVg0UENvQU9ILThkb3lsYTYxdXNjajVYcGcySjRJMU1mZ3gzVUNR%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FWm42NUo0alRBcHFTMFU2YW4zY29Ldzp6NUo4RVRZQ0FhY2FBNVg0SnlYaXgtN2EzOHFBdUlGR0VLQ1V3Z1FSR1FZ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FamFHM1RYNG9vSWtXVG85Q2JPTVFodzpkblE1SFRXdjhfaGpoU3Z1eTV0TjJPd2VEc2VsX2ZkTmViRUpVaXV1WkJJ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2Fb3VTM0ZhVHRxQXFSYlpxQzktcHBSdzo4YlNBYmdEUGFvQXhMYUxCb013aFZXTHgzQTBZdWZZWGNFdFNiMk1nOG9V%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDAwL3V6bTl0eWZrdXI0aV8sbixoLC51cmxzZXQvbWFzdGVyLm0zdTg%2FdD1qcDdCYWktWVdfQmQ1YjNjN01mWHFuOWd0TXhfRklIaWFoQ3czZXRKQ2tjJnM9MTc4NzA3OTkzMCZlPTQzMjAwJnY9MzI1NDg3Njk1Jmk9MC4zJnNwPTAmcj1l&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
