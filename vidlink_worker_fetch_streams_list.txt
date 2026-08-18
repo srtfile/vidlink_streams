@@ -984,3 +984,66 @@ https://www.vidking.net/embed/movie/1368337, serail=24, time=1:28 AM 19 augest 2
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/969681, serail=25, time=1:29 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "969681",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | 1080p | direct",
+      "url": "https://moon.peakstorm.top/vd/N2Zfa2Z2eGVHX25fdmQyeEw5UFBJQTpkZEYwUlgyaHhzWHRoRkduSGxMRXdQVEh3THN6RHM3TEtEUzJhOUlUd0Iw/index-s1080p-v1-a1.m3u8"
+    },
+    {
+      "label": "cdn | 1080p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FN2Zfa2Z2eGVHX25fdmQyeEw5UFBJQTpkZEYwUlgyaHhzWHRoRkduSGxMRXdQVEh3THN6RHM3TEtEUzJhOUlUd0Iw%2Findex-s1080p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 720p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FN2Zfa2Z2eGVHX25fdmQyeEw5UFBJQTpkZEYwUlgyaHhzWHRoRkduSGxMRXdQVEh3THN6RHM3TEtEUzJhOUlUd0Iw%2Findex-s720p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 480p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FN2Zfa2Z2eGVHX25fdmQyeEw5UFBJQTpkZEYwUlgyaHhzWHRoRkduSGxMRXdQVEh3THN6RHM3TEtEUzJhOUlUd0Iw%2Findex-s480p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | master | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FN2Zfa2Z2eGVHX25fdmQyeEw5UFBJQTpkZEYwUlgyaHhzWHRoRkduSGxMRXdQVEh3THN6RHM3TEtEUzJhOUlUd0Iw%2Fmaster.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "hdmovie | Hindi",
+      "url": "https://lizer123.site/getm3u8/1UZD403P"
+    },
+    {
+      "label": "hdmovie | English",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVrBTTUdGMOdUVxoFRFdnWql1MPRUUy0EVBFTWUZUaapWQ5llMStWTqVVP:1787084759:46.203.210.183:1363132dbb05a6b06d5dd75098c15061ef4b081448d983ceacde6bc9858fe902:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Bengali",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMNVjWqZVbaRFZs9ERkp2TH5EbNRlQpplaSxmTqdWeNpXW390VKlWTHlUP:1787084759:46.203.210.183:3900b499f6cc42304fb8f494a567ba628fc60b10954f5072debd44c0276cc7db:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Tamil",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2l1VNpnWElVeOdUS0klMFNTWUFVMN1WWx40VWhmWXJlaOpWR610RVNTTHVVP:1787084759:46.203.210.183:4246e704286f14a98d7d9b0dea886761bad10c08a385c17858e86615742b67ea:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Telugu",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVC1mTy0UeaREat1ERJNTTXFFMNp3Z4lFVJRjWEl0MOJTS450RJBTTqlUP:1787084759:46.203.210.183:ef4ad53d7cedd6e597f67f5dc0f643cecd06b6c4d5944807d9e97c9979a0b9d3:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Hindi Subbed",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERWpmTqFVMORFar9EVC1mWXplaN1WR6plaFRTTtZkaPRVU510VNdnTU1UP:1787084759:46.203.210.183:b507be6c596097e2683fb49563cd08b8001f2287a3b944638e5e4c922245ea7c:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Kannada",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/4927c1a6f8488bceda572e4e7f4f55c3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llMVdnWtVENZpWQ550RapmTEVlMadkSq1kas1WT6VlMZpmWspFRjRjWHVVP:1787084759:46.203.210.183:a66410c9a25437050c78ba2df7f19ffeab623197b3b2c6c4ef48963198bdbeb0:=4ERZVXTqFkeMpWS410Q0g3TE1UP/index.m3u8"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
