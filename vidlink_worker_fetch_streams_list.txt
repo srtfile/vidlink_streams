@@ -91,3 +91,54 @@ https://www.vidking.net/embed/movie/280, serail=2, time=4:25 PM 18 augest 2026 ,
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/296, serail=3, time=4:25 PM 18 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "296",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FQkZxWk9pTXJMazNxOUNVT1JMMzhjQTpLZmlFNElEY0VXblJWVG5qNFhxLVhGczlrLVZOT1A0dXljY2JPZlBRWjhFUHcxMzNrS1dFOFNfRnI1d3o4dmZrN1VXZ3F4WHlTaWZlUEI0UWZpUDd4QQ%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FQkZxWk9pTXJMazNxOUNVT1JMMzhjQTpLZmlFNElEY0VXblJWVG5qNFhxLVhGczlrLVZOT1A0dXljY2JPZlBRWjhFUHcxMzNrS1dFOFNfRnI1d3o4dmZrN1VXZ3F4WHlTaWZlUEI0UWZpUDd4QQ%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FQkZxWk9pTXJMazNxOUNVT1JMMzhjQTpLZmlFNElEY0VXblJWVG5qNFhxLVhGczlrLVZOT1A0dXljY2JPZlBRWjhFUHcxMzNrS1dFOFNfRnI1d3o4dmZrN1VXZ3F4WHlTaWZlUEI0UWZpUDd4QQ%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2Fdk92X2VLd0M5YU11eW1BMnBTZXJidzozaWpaQ2swc04zd0NRLWc2b1UxOFF3%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FQkZxWk9pTXJMazNxOUNVT1JMMzhjQTpLZmlFNElEY0VXblJWVG5qNFhxLVhGczlrLVZOT1A0dXljY2JPZlBRWjhFUHcxMzNrS1dFOFNfRnI1d3o4dmZrN1VXZ3F4WHlTaWZlUEI0UWZpUDd4QQ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "hdmovie | English",
+      "url": "https://i-arch-400.rasta428jem.com/stream2/i-arch-400/561f7184dc1c38cf095c49c38fb7afb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVVBTWyUUMapmRs5UbFlXTy0UeO1WRwolaZd3TEZVbPR0Z41keNBjTXFVP:1787052328:82.21.226.55:a6fc3e233d5bfb2280dd5f5c62dfe8b3795d4971e0a93811d90cf489ae72c749:==wTElUdNpWR11kaJJDTqVVM/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Tamil",
+      "url": "https://i-arch-400.rasta428jem.com/stream2/i-arch-400/561f7184dc1c38cf095c49c38fb7afb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVZh3TU1EMPdUR610RKpWT6FUNOpmTr1kekx2TUpUaaR0aykleWtWWUFVP:1787052328:82.21.226.55:9ca54da928b6bb86a41ce89f8fc1fe64f1813c46f50f62b865613f57016ed63a:==wTElUdNpWR11kaJJDTqVVM/index.m3u8"
+    },
+    {
+      "label": "hdmovie | Telugu",
+      "url": "https://i-arch-400.rasta428jem.com/stream2/i-arch-400/561f7184dc1c38cf095c49c38fb7afb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llenRjTtZ0aORVR45UbFdnTqN2dapWRzo1RZVTW6RGbORUVz00RVVTWUFUP:1787052328:82.21.226.55:9c3af39bb96f985ec38ae4db34af17c27a85cc5b5947a5ca7ad67ecc97d7a5ee:==wTElUdNpWR11kaJJDTqVVM/index.m3u8"
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvejBoZWV0MzZydmduXyxuLGgsLnVybHNldC9tYXN0ZXIubTN1OD90PXB3UW92eVV6MW03cEZlaERScnB3aEhYOC1fTkl6NGJ5Z0dpZ0wwRWlQcXcmcz0xNzg3MDQ1OTA5JmU9NDMyMDAmdj0zMjMxNDQ1ODkmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ%3D%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
