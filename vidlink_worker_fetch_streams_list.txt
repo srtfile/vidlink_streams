@@ -2241,3 +2241,30 @@ https://www.vidking.net/embed/movie/68721, serail=58, time=2:40 AM 19 augest 202
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/8536, serail=59, time=2:40 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "8536",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2Fcms2N2ZETllneGFJQmZmeV9GTm83UTpZOWxrUldTMUtXamVzamMxbzJKRGVUdmp6YkFmcFVnV0ltQnRXSC1VaElr%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FemdDZGtrZWltVTFfSFgySE9jeGpCUTpxZE1qWi01TkhaSUFFdFRVNXQyRWlOal9BbUFjQ0xuaUlLWGp6TE0tOHRv%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FaTRHMXZhcUo0UGxWc2h0aS01WjhUUTotaFBmaWxCTE9rMkc5Nkt1OGJOcXAwc3Yycm1lQ0NDNC13cXB0S21selRR%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
