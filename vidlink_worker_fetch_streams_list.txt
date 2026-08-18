@@ -83,3 +83,34 @@ https://www.vidking.net/embed/movie/280, serail=2, time=4:13 PM 18 augest 2026 ,
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/596, serail=3, time=4:13 PM 18 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "596",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FRXlpd2puTm13YjAtc1R3REFhZXdmUTpydjZtajN0bzdHT2ExYzd6a2kwRW50MUROZjRPZENQVmpmaGJJRTlkUzdROTVrMnpyR2tSdVY4YVlHR2dPcWd1UVo3RjU1dUNtZnRCekEwMkM1QmFDUQ%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FRXlpd2puTm13YjAtc1R3REFhZXdmUTpydjZtajN0bzdHT2ExYzd6a2kwRW50MUROZjRPZENQVmpmaGJJRTlkUzdROTVrMnpyR2tSdVY4YVlHR2dPcWd1UVo3RjU1dUNtZnRCekEwMkM1QmFDUQ%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FRXlpd2puTm13YjAtc1R3REFhZXdmUTpydjZtajN0bzdHT2ExYzd6a2kwRW50MUROZjRPZENQVmpmaGJJRTlkUzdROTVrMnpyR2tSdVY4YVlHR2dPcWd1UVo3RjU1dUNtZnRCekEwMkM1QmFDUQ%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FRXlpd2puTm13YjAtc1R3REFhZXdmUTpydjZtajN0bzdHT2ExYzd6a2kwRW50MUROZjRPZENQVmpmaGJJRTlkUzdROTVrMnpyR2tSdVY4YVlHR2dPcWd1UVo3RjU1dUNtZnRCekEwMkM1QmFDUQ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
