@@ -2696,3 +2696,46 @@ https://www.vidking.net/embed/movie/155, serail=70, time=2:47 AM 19 augest 2026 
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/49026, serail=71, time=2:48 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "49026",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | 1080p | direct",
+      "url": "https://moon.peakstorm.top/vd/Rm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn/index-s1080p-v1-a1.m3u8"
+    },
+    {
+      "label": "cdn | 1080p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FRm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn%2Findex-s1080p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 720p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FRm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn%2Findex-s720p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 480p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FRm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn%2Findex-s480p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 2160p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FRm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn%2Findex-s2160p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | master | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FRm9vS3B1cG9UamN0Z0VyNmNWZy1hdzowUEFkT1YwWGthcFEta093emZtVkZn%2Fmaster.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDA2L3JuaWtxY3JxbHR2al8sbixoLC51cmxzZXQvbWFzdGVyLm0zdTg%2FdD1PLVJCLXRUUUc2dGlFeHR1OUY2Yzh6M1NSN1ZIRC13Tl9ia1NWQ3VMZV9BJnM9MTc4NzA4MDc4OSZlPTQzMjAwJnY9MzIzMDA2MDAxJmk9MC4wJnNwPTAmZnI9cm5pa3FjcnFsdHZqJnI9ZQ%3D%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
