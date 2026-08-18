@@ -1688,3 +1688,22 @@ https://www.vidking.net/embed/movie/9035, serail=44, time=1:52 AM 19 augest 2026
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/1408162, serail=45, time=1:52 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "1408162",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "hdmovie | Tamil",
+      "url": "https://i-cdn-0.rasta428jem.com/stream2/i-cdn-0/24d60e2dfad111d75f899479a5852e96/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plarhXTy0UeOdVW0o1RRpnTHZFbNpXRz4ERRJjWqlEeO1WUw8ERZlnTykVP:1787082369:45.43.93.212:939d1eac7f49c1e77b168ffa1bb43b941c135f6de58bcc941be89c95006a5fb0:==gTEVVdORUT19EVNVXTqVUe/index.m3u8"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
