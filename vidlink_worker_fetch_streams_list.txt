@@ -742,3 +742,38 @@ https://www.vidking.net/embed/movie/1572, serail=18, time=4:39 PM 18 augest 2026
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/1571, serail=19, time=4:40 PM 18 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "1571",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FX3FPdEpEcDBVeHN1b0tQbk1iM21yQTpNUk5tdldHUUw2NWRUT2VlYzl5R1dTYlliWDlSNXVPbzNXdzZ3OGVVQ1NLN0dDeFFaOTRmVUUzU0hnaU5XQ242ZkFUNkFlUWNGbEpzeWNLTDF4YVh2SC0xMjBjNDF2NFZFSDFRZ3pXVWh1TQ%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FX3FPdEpEcDBVeHN1b0tQbk1iM21yQTpNUk5tdldHUUw2NWRUT2VlYzl5R1dTYlliWDlSNXVPbzNXdzZ3OGVVQ1NLN0dDeFFaOTRmVUUzU0hnaU5XQ242ZkFUNkFlUWNGbEpzeWNLTDF4YVh2SC0xMjBjNDF2NFZFSDFRZ3pXVWh1TQ%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FX3FPdEpEcDBVeHN1b0tQbk1iM21yQTpNUk5tdldHUUw2NWRUT2VlYzl5R1dTYlliWDlSNXVPbzNXdzZ3OGVVQ1NLN0dDeFFaOTRmVUUzU0hnaU5XQ242ZkFUNkFlUWNGbEpzeWNLTDF4YVh2SC0xMjBjNDF2NFZFSDFRZ3pXVWh1TQ%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FUjkwNnl5QU1GSkQwc21IdS05U3VhdzoyUjJUY3hUNVdfc3NmZi1YUlpoVU5n%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FX3FPdEpEcDBVeHN1b0tQbk1iM21yQTpNUk5tdldHUUw2NWRUT2VlYzl5R1dTYlliWDlSNXVPbzNXdzZ3OGVVQ1NLN0dDeFFaOTRmVUUzU0hnaU5XQ242ZkFUNkFlUWNGbEpzeWNLTDF4YVh2SC0xMjBjNDF2NFZFSDFRZ3pXVWh1TQ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
