@@ -1,5 +1,3 @@
-
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 https://www.vidking.net/embed/movie/218, serail=1, time=4:12 PM 18 augest 2026 , bangladesh standerd
 {
@@ -37,6 +35,49 @@ https://www.vidking.net/embed/movie/218, serail=1, time=4:12 PM 18 augest 2026 ,
     {
       "label": "lamovie | Vimeos | proxy",
       "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvNGY2dzEwbmM0dXU1XyxuLGgsLnVybHNldC9tYXN0ZXIubTN1OD90PTZBMkwyVzUxWUlTM3hpZzkzZDBqU0Y5d0VYbzBGM2NZcXFZV3E2WWZFd1Emcz0xNzg3MDQyNjM5JmU9NDMyMDAmdj0zMjA5Mjc3MTYmc3J2PXM5Jmk9MC4zJnNwPTAmcj1l&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/280, serail=2, time=4:13 PM 18 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "280",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | 1080p | direct",
+      "url": "https://moon.peakstorm.top/vd/azAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n/index-s1080p-v1-a1.m3u8"
+    },
+    {
+      "label": "cdn | 1080p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FazAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n%2Findex-s1080p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 720p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FazAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n%2Findex-s720p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 480p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FazAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n%2Findex-s480p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | 2160p | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FazAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n%2Findex-s2160p-v1-a1.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | master | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fvd%2FazAxSFd6all2WDUtOGE1RW9UZXczQTp5TDdtU1VZdlVnamU0WjNwaUJ6Qm5n%2Fmaster.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDMvMDAwMTAvbWhkczJkNG96cmk3XyxuLGgsLnVybHNldC9tYXN0ZXIubTN1OD90PWVSUmxJUi1xSjh4akhaUnN4Q0MwRVlYWkJ6b0VoOUg3Y2EycXRTc092TUUmcz0xNzg3MDQzNzg1JmU9NDMyMDAmdj0zMjMwNDQyNzMmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPW1oZHMyZDRvenJpNyZyPWU%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
     }
   ]
 }
