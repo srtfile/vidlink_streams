@@ -1047,3 +1047,38 @@ https://www.vidking.net/embed/movie/969681, serail=25, time=1:29 AM 19 augest 20
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/7737, serail=26, time=1:30 AM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "7737",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2Fb1ZCdHE5LWFZZ1RuVVFkNC1faWt2dzp5WWkwRmRWYlR2UC1GNWh4WVFVUnhrTFhRUkliaTFQUXM5QlhkNFc4R243dzJpYldTWHZTS3h3d3JJSnptR0ZibWRmc182YlkxRUZ3ZTQwemFFcTV6VHBkOC1mV2hmTDc4QWtoMUNpbjk3TQ%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2Fb1ZCdHE5LWFZZ1RuVVFkNC1faWt2dzp5WWkwRmRWYlR2UC1GNWh4WVFVUnhrTFhRUkliaTFQUXM5QlhkNFc4R243dzJpYldTWHZTS3h3d3JJSnptR0ZibWRmc182YlkxRUZ3ZTQwemFFcTV6VHBkOC1mV2hmTDc4QWtoMUNpbjk3TQ%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2Fb1ZCdHE5LWFZZ1RuVVFkNC1faWt2dzp5WWkwRmRWYlR2UC1GNWh4WVFVUnhrTFhRUkliaTFQUXM5QlhkNFc4R243dzJpYldTWHZTS3h3d3JJSnptR0ZibWRmc182YlkxRUZ3ZTQwemFFcTV6VHBkOC1mV2hmTDc4QWtoMUNpbjk3TQ%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2Fb1ZCdHE5LWFZZ1RuVVFkNC1faWt2dzp5WWkwRmRWYlR2UC1GNWh4WVFVUnhrTFhRUkliaTFQUXM5QlhkNFc4R243dzJpYldTWHZTS3h3d3JJSnptR0ZibWRmc182YlkxRUZ3ZTQwemFFcTV6VHBkOC1mV2hmTDc4QWtoMUNpbjk3TQ%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwL2podmFhd2cwdDZnOV8sbixoLC51cmxzZXQvbWFzdGVyLm0zdTg%2FdD1GVzR1aVY3elVIRFBiTmhNWE1CSUhRZmZiLW1IaHZHMUNlbm4wcGhzSzBjJnM9MTc4NzA3MTA4MyZlPTQzMjAwJnY9MzIzMDI2MDU4Jmk9MC4zJnNwPTAmcj1l&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
