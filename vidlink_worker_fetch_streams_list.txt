@@ -3100,3 +3100,26 @@ https://www.vidking.net/embed/movie/14756, serail=83, time=3:18 AM 19 augest 202
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/tv/31910/1/5, serail=84, time=9:53 PM 19 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "tv",
+  "tmdbId": "31910",
+  "season": "1",
+  "episode": "5",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FaFdtQV9Tb2lhbVVCVnVXQVI5QzJMQTpHblpIVzJkMGh6RHhLMDhkQUxPRE9xcDN3NXJnM3JpYlYtNmh6MzlLaU5ab2pzRVdOc2ZMbzJ5aTVuTTN6NlB6%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FODlhVXZYMXBCZWVaYmNadWh1QUx2ZzpWVFZYVWlQb1Y4al80Q0V3S3AtTURKMDhMc2o3VGlTdGRnc3d4MzRCeHkwM0kwUGY5QXF3Q19KYXhnS1RPMGlT%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
