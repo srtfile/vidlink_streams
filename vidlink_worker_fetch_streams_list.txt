@@ -3286,3 +3286,38 @@ https://www.vidking.net/embed/movie/18823, serail=88, time=9:03 AM 20 augest 202
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/1271, serail=89, time=9:03 AM 20 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "1271",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FbHd2eDc3cXB1SjZRRVJTelhVb3FxZzpoZHhTb2F4VEpPeFRQMTY2a2poTUJhb0RlS1h5dGJUYTFzOXJ2UlZuRjVV%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FRzlISFRfekZhX2pqLUN4bGJxSWcydzptVzI5QXlYaTJ4Q1dOX1hreVZ2UXRtcHdwdGotZHl5T2wxd0I3cXozdzQ0%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FdDhzY1B1N1dJSWl6MnZTLUU0Z1JjUTo5emZoZkU1RFlHcVBabU9HRnpLZF9ra1RnLThTNnh4RS05YmpTQXowLVFR%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-hpab.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn1%2FQy1VRjNvSDhhQ0JoZzFjbmVoVUFIUTpvdFpaMFpERkZIbmhSQUxPNkRIZHB3%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "lamovie | Vimeos | proxy",
+      "url": "https://foxy-doxy.andruilsyestems.workers.dev/proxy?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDYvZ3k0bWh4bXE3NHQ0XyxuLGgsLnVybHNldC9tYXN0ZXIubTN1OD90PUgwc21yWTdlWXNDV1VpTDFXRkl3VnFTQlNjQUI2dUFIYWxNTHhQTFJhRHMmcz0xNzg3MTg1MjM4JmU9NDMyMDAmdj0zMjMwMDQ2MjImc3J2PXMxMSZpPTAuMyZzcD0wJmZyPWd5NG1oeG1xNzR0NCZyPWU%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cudmlka2luZy5uZXQvIn0%3D"
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
