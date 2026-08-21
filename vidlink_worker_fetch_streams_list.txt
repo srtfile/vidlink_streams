@@ -3475,3 +3475,34 @@ https://www.vidking.net/embed/movie/45050, serail=94, time=12:50 AM 21 augest 20
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.vidking.net/embed/movie/553, serail=95, time=5:44 PM 21 augest 2026 , bangladesh standerd
+{
+  "success": true,
+  "status": "extract from live",
+  "mediaType": "movie",
+  "tmdbId": "553",
+  "season": "1",
+  "episode": "1",
+  "results": [
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-soyy.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FNjlRZUdCYlVJam1mWU9xd2lWbDRjdzptR2xtSFJmNG1FSzJrNE9jUlNSUjBsNVZEVkN5N1hsZVl1bmJmc3JEQXNSTGJfLUp2M1lHLXh1dVdtTkJqQmJFRnl2Q09ZYkxCZ0JVSUx6THVhQkJodw%2F1080p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-soyy.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FNjlRZUdCYlVJam1mWU9xd2lWbDRjdzptR2xtSFJmNG1FSzJrNE9jUlNSUjBsNVZEVkN5N1hsZVl1bmJmc3JEQXNSTGJfLUp2M1lHLXh1dVdtTkJqQmJFRnl2Q09ZYkxCZ0JVSUx6THVhQkJodw%2F720p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-soyy.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FNjlRZUdCYlVJam1mWU9xd2lWbDRjdzptR2xtSFJmNG1FSzJrNE9jUlNSUjBsNVZEVkN5N1hsZVl1bmJmc3JEQXNSTGJfLUp2M1lHLXh1dVdtTkJqQmJFRnl2Q09ZYkxCZ0JVSUx6THVhQkJodw%2F480p%2Findex.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    },
+    {
+      "label": "cdn | unknown | proxy",
+      "url": "https://megaplalyermoy-soyy.onrender.com/proxy?url=https%3A%2F%2Fmoon.peakstorm.top%2Fr2%2Fcdn2%2FNjlRZUdCYlVJam1mWU9xd2lWbDRjdzptR2xtSFJmNG1FSzJrNE9jUlNSUjBsNVZEVkN5N1hsZVl1bmJmc3JEQXNSTGJfLUp2M1lHLXh1dVdtTkJqQmJFRnl2Q09ZYkxCZ0JVSUx6THVhQkJodw%2Fplaylist.m3u8&ref=https%3A%2F%2Fwww.vidking.net%2F&origin="
+    }
+  ]
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
